@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plant Recommendations</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Recommended Plants</h1>
+        <p><strong>Location:</strong> {{ location }}</p>
+        <p><strong>Soil Type:</strong> {{ soil }}</p>
+        <h3>You can grow:</h3>
+        <ul>
+            {% for plant in plants %}
+                <li>{{ plant }}</li>
+            {% endfor %}
+        </ul>
+        <a href="/">Back to Home</a>
+    </div>
+</body>
+</html>

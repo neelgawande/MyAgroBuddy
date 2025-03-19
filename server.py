@@ -1,35 +1,31 @@
-from flask import Flask, request, jsonify
+from flask import Flask, render_template, request
 import joblib
-import numpy as np
+import pandas as pd
 
-app = Flask(_name_)
+app = Flask(__name__)
 
-# Load the trained ML model
-model = joblib.load("plant_recommendation.pkl")
+# Load trained model
+# model = joblib.load("model/plant_recommendation.pkl")
 
-# Define API endpoint for prediction
-@app.route('/predict', methods=['POST'])
-def predict():
-    try:
-        data = request.get_json()
-        location = data['location']
-        soil = data['soil']
+# Sample plant data
+plant_data = {
+    "loamy": ["Tomato", "Carrot", "Rose"],
+    "sandy": ["Cactus", "Lavender", "Aloe Vera"],
+    "clay": ["Willow Tree", "Sunflower", "Peony"]
+}
 
-        # Convert location and soil into numerical values if required
-        # Example: Encoding location and soil types (You may modify this)
-        location_mapping = {"Vijayawada": 1, "Delhi": 2, "Mumbai": 3}
-        soil_mapping = {"Sandy": 1, "Clayey": 2, "Loamy": 3}
+@app.route("/", methods=["GET", "POST"])
+def home():
+    if request.method == "POST":
+        location = request.form["location"]
+        soil = request.form["soil"].lower()
 
-        location_value = location_mapping.get(location, 0)
-        soil_value = soil_mapping.get(soil, 0)
+        # Get plant recommendations
+        recommended_plants = plant_data.get(soil, ["No recommendations found"])
 
-        # Predict plant recommendations
-        prediction = model.predict(np.array([[location_value, soil_value]]))
-
-        return jsonify({'plants': prediction.tolist()})
+        return render_template("result.html", location=location, soil=soil, plants=recommended_plants)
     
-    except Exception as e:
-        return jsonify({'error': str(e)})
+    return render_template("index.html")
 
-if _name_ == '_main_':
+if __name__ == "__main__":
     app.run(debug=True)
