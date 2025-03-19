@@ -1,0 +1,739 @@
+State,District,Soil Type,Soil pH,Temperature (°C),Rainfall (mm)
+Odisha,Angul,Red,7.4,30,1237
+Odisha,Balangir,Red,6.5,23,1516
+Odisha,Balasore,Sandy Loam,5.7,20,1018
+Odisha,Bargarh,Red,6.9,28,1611
+Odisha,Bhadrak,Alluvial,6.5,31,1243
+Odisha,Boudh,Red,5.7,24,1379
+Odisha,Cuttack,Laterite,6.2,29,1633
+Odisha,Deogarh,Laterite,7,32,1149
+Odisha,Dhenkanal,Black,5.8,29,1143
+Odisha,Gajapati,Alluvial,6.5,33,1395
+Odisha,Ganjam,Red,6.2,21,1262
+Odisha,Jagatsinghpur,Alluvial,5.7,21,1682
+Odisha,Jajpur,Laterite,7.5,34,843
+Odisha,Jharsuguda,Red,6.4,20,1520
+Odisha,Kalahandi,Red,6.4,20,1068
+Odisha,Kandhamal,Laterite,5.6,30,1353
+Odisha,Kendrapara,Black,6.2,33,1087
+Odisha,Kendujhar,Sandy Loam,6.5,26,1127
+Odisha,Khordha,Laterite,7.4,32,969
+Odisha,Koraput,Sandy Loam,7.3,32,1093
+Odisha,Malkangiri,Black,7.3,30,1092
+Odisha,Mayurbhanj,Red,6.5,29,1526
+Odisha,Nabarangpur,Sandy Loam,5.7,29,1224
+Odisha,Nayagarh,Laterite,6.7,24,1523
+Odisha,Nuapada,Laterite,5.9,35,1782
+Odisha,Puri,Black,6.6,23,1432
+Odisha,Rayagada,Black,5.5,33,1276
+Odisha,Sambalpur,Sandy Loam,6.2,33,1800
+Odisha,Subarnapur,Red,6.1,21,1064
+Odisha,Sundargarh,Alluvial,7.3,35,1284
+Andhra Pradesh,Anakapalli,Alluvial,6.6,25,728
+Andhra Pradesh,Anantapuramu,Sandy Loam,7.2,30,817
+Andhra Pradesh,Annamayya,Black,6.8,25,730
+Andhra Pradesh,Bapatla,Alluvial,6.5,34,1076
+Andhra Pradesh,Chittoor,Laterite,6.7,25,827
+Andhra Pradesh,Dr. B.R. Ambedkar Konaseema,Black,7.3,26,1152
+Andhra Pradesh,East Godavari,Sandy Loam,7.1,35,1463
+Andhra Pradesh,Eluru,Black,7.2,35,1171
+Andhra Pradesh,Guntur,Black,7.2,30,1447
+Andhra Pradesh,Kakinada,Red,7.4,34,1220
+Andhra Pradesh,Krishna,Sandy Loam,6.9,28,1110
+Andhra Pradesh,Kurnool,Alluvial,7.1,27,813
+Andhra Pradesh,Nandyal,Black,6.4,33,650
+Andhra Pradesh,NTR,Sandy Loam,6.2,31,1049
+Andhra Pradesh,Palnadu,Laterite,6.7,35,1104
+Andhra Pradesh,Parvathipuram Manyam,Sandy Loam,6.6,31,775
+Andhra Pradesh,Prakasam,Alluvial,6.4,35,1245
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Red,6.4,28,1462
+Andhra Pradesh,Sri Sathya Sai,Alluvial,6.5,34,1187
+Andhra Pradesh,Srikakulam,Alluvial,6.9,26,922
+Andhra Pradesh,Sri Balaji,Laterite,7.2,26,1206
+Andhra Pradesh,Visakhapatnam,Laterite,6.9,30,593
+Andhra Pradesh,Vizianagaram,Black,7,32,943
+Andhra Pradesh,West Godavari,Alluvial,6.9,26,974
+Andhra Pradesh,Alluri Sitharama Raju,Black,6.5,30,724
+Andhra Pradesh,Anakapalli,Sandy Loam,6.1,28,597
+Haryana,Ambala,Red,8.3,32,1047
+Haryana,Bhiwani,Alluvial,7.3,40,800
+Haryana,Charkhi Dadri,Laterite,7.9,29,1169
+Haryana,Faridabad,Alluvial,8.4,15,1099
+Haryana,Fatehabad,Alluvial,7.1,20,498
+Haryana,Gurugram,Black,7,36,921
+Haryana,Hisar,Red,7.4,26,836
+Haryana,Jhajjar,Red,6.6,27,426
+Haryana,Jind,Alluvial,8.1,33,824
+Haryana,Kaithal,Alluvial,7.9,31,874
+Haryana,Karnal,Black,7.8,34,703
+Haryana,Kurukshetra,Black,7,25,309
+Haryana,Mahendragarh,Sandy Loam,7.8,35,1054
+Haryana,Nuh,Red,8.1,36,397
+Haryana,Palwal,Black,7.9,40,597
+Haryana,Panchkula,Black,6.6,27,752
+Haryana,Panipat,Black,6.6,31,479
+Haryana,Rewari,Red,8.2,27,890
+Haryana,Rohtak,Sandy Loam,6.8,31,611
+Haryana,Sirsa,Black,7.6,24,902
+Haryana,Sonipat,Red,7.8,40,692
+Haryana,Yamunanagar,Black,7.8,37,684
+Telangana,Adilabad,Sandy Loam,7.1,23,1189
+Telangana,Bhadradri Kothagudem,Black,6.8,38,986
+Telangana,Hyderabad,Black,7.1,34,1183
+Telangana,Jagtial,Sandy Loam,7.4,31,987
+Telangana,Jangaon,Laterite,6.9,21,1146
+Telangana,Jayashankar Bhupalpally,Black,6,38,869
+Telangana,Jogulamba Gadwal,Sandy Loam,6.2,34,937
+Telangana,Kamareddy,Alluvial,6,36,1167
+Telangana,Karimnagar,Laterite,7.5,22,1351
+Telangana,Khammam,Red,6.7,32,938
+Telangana,Kumuram Bheem,Black,8,20,1313
+Telangana,Mahabubabad,Sandy Loam,6.2,27,742
+Telangana,Mahbubnagar,Black,7.1,21,649
+Telangana,Mancherial,Black,6.7,23,1368
+Telangana,Medak,Red,6.3,20,1234
+Telangana,Medchal-Malkajgiri,Laterite,7.2,36,1382
+Telangana,Mulugu,Laterite,7,25,1059
+Telangana,Nagarkurnool,Sandy Loam,6,28,958
+Telangana,Nalgonda,Laterite,6.5,34,1104
+Telangana,Narayanpet,Sandy Loam,7.3,30,942
+Telangana,Nirmal,Alluvial,7.3,23,1133
+Telangana,Nizamabad,Laterite,6.6,30,1348
+Telangana,Peddapalli,Sandy Loam,7.9,27,963
+Telangana,Rajanna Sircilla,Sandy Loam,6.3,33,1221
+Telangana,Ranga Reddy,Alluvial,7.7,22,1009
+Telangana,Sangareddy,Laterite,6.7,22,665
+Telangana,Siddipet,Red,7.5,35,1188
+Telangana,Suryapet,Alluvial,7.5,28,1297
+Telangana,Vikarabad,Laterite,6.5,32,987
+Telangana,Wanaparthy,Sandy Loam,6.3,30,736
+Telangana,Warangal,Red,6.7,28,725
+Telangana,Hanamkonda,Red,7.3,36,657
+Telangana,Yadadri Bhuvanagiri,Black,7.1,21,922
+Maharashtra,Ahmednagar,Black,7.5,24,1805
+Maharashtra,Akola,Sandy Loam,6.5,38,2952
+Maharashtra,Amravati,Black,7.9,24,1846
+Maharashtra,Aurangabad,Laterite,8.3,20,2643
+Maharashtra,Beed,Laterite,8.4,20,1531
+Maharashtra,Bhandara,Alluvial,6.5,26,2087
+Maharashtra,Buldhana,Black,8.1,18,2494
+Maharashtra,Chandrapur,Alluvial,7.8,22,1302
+Maharashtra,Dhule,Black,7.1,24,2121
+Maharashtra,Gadchiroli,Alluvial,7.5,20,2126
+Maharashtra,Gondia,Sandy Loam,6.7,32,2770
+Maharashtra,Hingoli,Black,6.6,36,2462
+Maharashtra,Jalgaon,Sandy Loam,8.2,16,1960
+Maharashtra,Jalna,Laterite,8,18,1350
+Maharashtra,Kolhapur,Red,7,20,1712
+Maharashtra,Latur,Black,6.6,25,1275
+Maharashtra,Mumbai City,Red,8.2,15,594
+Maharashtra,Mumbai Suburban,Black,6.8,17,1990
+Maharashtra,Nagpur,Red,6.9,22,1349
+Maharashtra,Nanded,Sandy Loam,7.3,35,2185
+Maharashtra,Nandurbar,Laterite,7.7,26,793
+Maharashtra,Nashik,Sandy Loam,7.8,29,2963
+Maharashtra,Osmanabad,Alluvial,6.3,33,1548
+Maharashtra,Palghar,Red,6.2,25,2590
+Maharashtra,Parbhani,Sandy Loam,7.6,22,2998
+Maharashtra,Pune,Alluvial,7.1,24,484
+Maharashtra,Raigad,Alluvial,8.3,35,783
+Maharashtra,Ratnagiri,Laterite,6.2,29,2033
+Maharashtra,Sangli,Sandy Loam,8.1,34,2357
+Maharashtra,Satara,Alluvial,8,34,2275
+Maharashtra,Sindhudurg,Sandy Loam,7.1,34,1215
+Maharashtra,Solapur,Sandy Loam,6.8,20,743
+Maharashtra,Thane,Laterite,8,26,1832
+Maharashtra,Wardha,Red,7,29,695
+Maharashtra,Washim,Laterite,7.3,24,2686
+Maharashtra,Yavatmal,Alluvial,7.2,20,721
+Madhya Pradesh,Agar Malwa,Alluvial,7,23,1168
+Madhya Pradesh,Alirajpur,Sandy Loam,6.6,23,1576
+Madhya Pradesh,Anuppur,Laterite,7.7,30,1326
+Madhya Pradesh,Ashoknagar,Laterite,8.5,19,1268
+Madhya Pradesh,Balaghat,Black,6.6,23,1383
+Madhya Pradesh,Barwani,Red,7.9,22,710
+Madhya Pradesh,Betul,Black,7.4,26,1092
+Madhya Pradesh,Bhind,Sandy Loam,6.4,18,1562
+Madhya Pradesh,Bhopal,Sandy Loam,6.2,14,876
+Madhya Pradesh,Burhanpur,Laterite,6.9,33,823
+Madhya Pradesh,Chhatarpur,Laterite,7.7,12,1528
+Madhya Pradesh,Chhindwara,Laterite,6.9,32,624
+Madhya Pradesh,Damoh,Alluvial,7.9,36,818
+Madhya Pradesh,Datia,Black,8.3,12,1057
+Madhya Pradesh,Dewas,Black,7.2,22,959
+Madhya Pradesh,Dhar,Laterite,6.4,16,1382
+Madhya Pradesh,Dindori,Black,6.5,29,950
+Madhya Pradesh,Guna,Red,7.3,38,959
+Madhya Pradesh,Gwalior,Red,6.6,20,1445
+Madhya Pradesh,Harda,Alluvial,6.7,15,635
+Madhya Pradesh,Hoshangabad,Alluvial,6.6,15,778
+Madhya Pradesh,Indore,Red,7.9,10,1440
+Madhya Pradesh,Jabalpur,Sandy Loam,7.5,39,992
+Madhya Pradesh,Jhabua,Red,6.6,33,636
+Madhya Pradesh,Katni,Sandy Loam,6.3,17,1543
+Madhya Pradesh,Khandwa,Alluvial,8.5,29,1298
+Madhya Pradesh,Khargone,Black,6.3,19,694
+Madhya Pradesh,Mandla,Laterite,7.3,15,710
+Madhya Pradesh,Mandsaur,Alluvial,6.1,30,1277
+Madhya Pradesh,Morena,Red,6.8,18,1439
+Madhya Pradesh,Narsinghpur,Sandy Loam,7.7,35,1370
+Madhya Pradesh,Neemuch,Black,7,36,1035
+Madhya Pradesh,Panna,Red,8.3,10,1365
+Madhya Pradesh,Raisen,Sandy Loam,8.4,40,1021
+Madhya Pradesh,Rajgarh,Black,7.5,13,1383
+Madhya Pradesh,Ratlam,Sandy Loam,7.7,30,953
+Madhya Pradesh,Rewa,Laterite,8,22,764
+Madhya Pradesh,Sagar,Laterite,7.9,12,1031
+Madhya Pradesh,Satna,Sandy Loam,8.4,39,740
+Madhya Pradesh,Sehore,Sandy Loam,8.5,19,1158
+Madhya Pradesh,Seoni,Sandy Loam,8.5,24,629
+Madhya Pradesh,Shahdol,Sandy Loam,7.6,13,857
+Madhya Pradesh,Shajapur,Sandy Loam,8,35,1288
+Madhya Pradesh,Sheopur,Laterite,8.5,20,799
+Madhya Pradesh,Shivpuri,Red,7.9,15,677
+Madhya Pradesh,Sidhi,Alluvial,8,26,1235
+Madhya Pradesh,Singrauli,Black,7,13,1182
+Madhya Pradesh,Tikamgarh,Alluvial,7.1,29,1036
+Madhya Pradesh,Ujjain,Laterite,8,23,1522
+Madhya Pradesh,Umaria,Laterite,6.3,18,625
+Madhya Pradesh,Vidisha,Black,7.4,19,1044
+Madhya Pradesh,Niwas,Black,7.4,19,670
+Madhya Pradesh,Maihar,Alluvial,8.1,35,1012
+Madhya Pradesh,Nagda,Sandy Loam,8,18,615
+Madhya Pradesh,Pipariya,Alluvial,6.2,38,1000
+Madhya Pradesh,Sironj,Sandy Loam,8,22,1175
+Uttar Pradesh,Agra,Red,7.9,44,1137
+Uttar Pradesh,Aligarh,Laterite,6.5,12,906
+Uttar Pradesh,Ambedkar Nagar,Black,7.1,41,767
+Uttar Pradesh,Amethi,Red,7,21,1354
+Uttar Pradesh,Amroha,Alluvial,7.1,44,1142
+Uttar Pradesh,Auraiya,Laterite,7.7,25,1183
+Uttar Pradesh,Ayodhya,Red,7.2,15,775
+Uttar Pradesh,Azamgarh,Sandy Loam,8.3,32,874
+Uttar Pradesh,Baghpat,Red,6,45,1383
+Uttar Pradesh,Bahraich,Sandy Loam,6.9,21,839
+Uttar Pradesh,Ballia,Sandy Loam,7,24,1178
+Uttar Pradesh,Balrampur,Red,7.3,27,642
+Uttar Pradesh,Banda,Laterite,8.4,43,1096
+Uttar Pradesh,Barabanki,Black,6.8,45,1240
+Uttar Pradesh,Bareilly,Red,6.2,25,1172
+Uttar Pradesh,Basti,Red,7.7,19,1047
+Uttar Pradesh,Bhadohi,Red,7.6,28,1287
+Uttar Pradesh,Bijnor,Alluvial,6.8,40,886
+Uttar Pradesh,Budaun,Alluvial,8.3,22,780
+Uttar Pradesh,Bulandshahr,Red,7.1,18,619
+Uttar Pradesh,Chandauli,Black,6.4,31,1372
+Uttar Pradesh,Chitrakoot,Red,6.2,25,993
+Uttar Pradesh,Deoria,Black,6.7,27,1112
+Uttar Pradesh,Etah,Alluvial,8.2,37,1122
+Uttar Pradesh,Etawah,Alluvial,6.6,22,1056
+Uttar Pradesh,Farrukhabad,Laterite,6.3,39,1248
+Uttar Pradesh,Fatehpur,Alluvial,6.9,19,923
+Uttar Pradesh,Firozabad,Sandy Loam,7.6,41,821
+Uttar Pradesh,Gautam Buddha Nagar,Alluvial,8.4,37,875
+Uttar Pradesh,Ghaziabad,Alluvial,7.1,17,751
+Uttar Pradesh,Ghazipur,Sandy Loam,8.1,33,850
+Uttar Pradesh,Gonda,Alluvial,8.3,42,1337
+Uttar Pradesh,Gorakhpur,Laterite,6.6,20,740
+Uttar Pradesh,Hamirpur,Alluvial,6.3,15,618
+Uttar Pradesh,Hapur,Alluvial,7.9,35,1144
+Uttar Pradesh,Hardoi,Sandy Loam,6.5,27,677
+Uttar Pradesh,Hathras,Black,6.7,23,871
+Uttar Pradesh,Jalaun,Alluvial,8.4,41,1155
+Uttar Pradesh,Jaunpur,Laterite,6.3,17,1135
+Uttar Pradesh,Jhansi,Red,8.3,15,1251
+Uttar Pradesh,Kannauj,Red,7.7,33,1092
+Uttar Pradesh,Kanpur Dehat,Sandy Loam,7.7,45,1161
+Uttar Pradesh,Kanpur Nagar,Laterite,6.9,24,738
+Uttar Pradesh,Kasganj,Alluvial,6.7,28,1246
+Uttar Pradesh,Kaushambi,Alluvial,7.5,42,970
+Uttar Pradesh,Kheri,Alluvial,7.4,26,867
+Uttar Pradesh,Kushinagar,Red,7.9,13,940
+Uttar Pradesh,Lalitpur,Red,6.4,37,1254
+Uttar Pradesh,Lucknow,Black,8.1,35,1115
+Uttar Pradesh,Maharajganj,Alluvial,7,42,782
+Uttar Pradesh,Mahoba,Laterite,7.3,34,957
+Uttar Pradesh,Mainpuri,Black,7,29,832
+Uttar Pradesh,Mathura,Alluvial,7.5,42,1101
+Uttar Pradesh,Mau,Red,8.1,22,1305
+Uttar Pradesh,Meerut,Alluvial,7.2,43,894
+Uttar Pradesh,Mirzapur,Laterite,6.9,29,786
+Uttar Pradesh,Moradabad,Laterite,6.6,23,1185
+Uttar Pradesh,Muzaffarnagar,Black,8,35,932
+Uttar Pradesh,Pilibhit,Alluvial,7.5,10,1305
+Uttar Pradesh,Pratapgarh,Red,7.8,34,1145
+Uttar Pradesh,Prayagraj,Sandy Loam,6.3,25,1076
+Uttar Pradesh,Rae Bareli,Red,7.1,43,934
+Uttar Pradesh,Rampur,Sandy Loam,7.2,25,1317
+Uttar Pradesh,Saharanpur,Alluvial,7.3,31,828
+Uttar Pradesh,Sambhal,Red,6.8,21,701
+Uttar Pradesh,Sant Kabir Nagar,Sandy Loam,6.8,18,743
+Uttar Pradesh,Shahjahanpur,Red,8.4,44,853
+Uttar Pradesh,Shamli,Laterite,6.1,29,1190
+Uttar Pradesh,Shrawasti,Black,6.8,19,1049
+Uttar Pradesh,Siddharthnagar,Red,7.7,23,1212
+Uttar Pradesh,Sitapur,Sandy Loam,6.6,33,827
+Uttar Pradesh,Sonbhadra,Black,7.3,29,1015
+Uttar Pradesh,Sultanpur,Black,7.2,28,925
+Uttar Pradesh,Unnao,Alluvial,7.8,18,600
+Uttar Pradesh,Varanasi,Alluvial,8.5,45,887
+Goa,North Goa,Alluvial,6.8,30,2987
+Goa,South Goa,Red,6.5,25,2732
+Arunachal Pradesh,Tawang,Laterite,4.7,5,3088
+Arunachal Pradesh,West Kameng,Black,4.6,12,4479
+Arunachal Pradesh,East Kameng,Laterite,4.5,12,3610
+Arunachal Pradesh,Pakke-Kessang,Red,6.1,20,3862
+Arunachal Pradesh,Papum Pare,Sandy Loam,5,25,3722
+Arunachal Pradesh,Kurung Kumey,Laterite,6,24,2720
+Arunachal Pradesh,Kra Daadi,Laterite,4.6,23,3765
+Arunachal Pradesh,Lower Subansiri,Laterite,5.6,14,2691
+Arunachal Pradesh,Upper Subansiri,Red,5.4,8,4446
+Arunachal Pradesh,West Siang,Black,6.1,22,4284
+Arunachal Pradesh,Shi-Yomi,Black,5.1,21,3441
+Arunachal Pradesh,East Siang,Alluvial,4.7,12,3430
+Arunachal Pradesh,Siang,Sandy Loam,5.6,29,3934
+Arunachal Pradesh,Upper Siang,Alluvial,4.5,22,3736
+Arunachal Pradesh,Lower Siang,Sandy Loam,5.9,18,3811
+Arunachal Pradesh,Lepa Rada,Black,6.2,5,2750
+Arunachal Pradesh,Dibang Valley,Red,5.3,8,4412
+Arunachal Pradesh,Lower Dibang Valley,Black,5.2,28,4742
+Arunachal Pradesh,Anjaw,Red,5,7,2405
+Arunachal Pradesh,Lohit,Red,6.3,13,3510
+Arunachal Pradesh,Namsai,Red,4.9,9,2112
+Arunachal Pradesh,Changlang,Red,5.9,17,3359
+Arunachal Pradesh,Tirap,Black,5.2,10,4494
+Arunachal Pradesh,Longding,Laterite,4.7,6,2747
+Arunachal Pradesh,Kamle,Laterite,4.8,18,2776
+Arunachal Pradesh,Itanagar Capital Complex,Black,5.7,13,2721
+Chhattisgarh,Balod,Sandy Loam,6.1,39,1496
+Chhattisgarh,Baloda Bazar,Alluvial,7.3,29,1591
+Chhattisgarh,Balrampur,Laterite,6.2,40,1347
+Chhattisgarh,Bastar,Laterite,7.1,24,887
+Chhattisgarh,Bemetara,Black,6.3,20,1082
+Chhattisgarh,Bijapur,Black,6.1,18,1272
+Chhattisgarh,Bilaspur,Laterite,7,20,1064
+Chhattisgarh,Dantewada,Alluvial,5.8,24,1390
+Chhattisgarh,Dhamtari,Black,6.8,37,1594
+Chhattisgarh,Durg,Red,7.1,30,1440
+Chhattisgarh,Gariaband,Alluvial,5.6,16,1025
+Chhattisgarh,Gaurela-Pendra-Marwahi,Laterite,7,15,1045
+Chhattisgarh,Janjgir-Champa,Black,6.1,29,1572
+Chhattisgarh,Jashpur,Sandy Loam,5.6,19,1307
+Chhattisgarh,Kabirdham,Red,6.7,33,1184
+Chhattisgarh,Kanker,Alluvial,6.5,23,1399
+Chhattisgarh,Kondagaon,Black,5.9,37,991
+Chhattisgarh,Korba,Alluvial,5.8,39,1546
+Chhattisgarh,Koriya,Alluvial,5.9,37,800
+Chhattisgarh,Mahasamund,Laterite,7.4,15,1162
+Chhattisgarh,Mungeli,Alluvial,7.2,34,1054
+Chhattisgarh,Narayanpur,Sandy Loam,5.5,35,1278
+Chhattisgarh,Raigarh,Alluvial,6.2,34,1336
+Chhattisgarh,Raipur,Sandy Loam,6.1,38,1527
+Chhattisgarh,Rajnandgaon,Black,6.1,18,1129
+Chhattisgarh,Sukma,Sandy Loam,6.7,38,1241
+Chhattisgarh,Surajpur,Laterite,7.4,28,1089
+Chhattisgarh,Surguja,Alluvial,6.7,24,1030
+Chhattisgarh,Khairagarh-Chhuikhadan-Gandai,Red,6.5,26,823
+Chhattisgarh,Manendragarh-Chirmiri-Bharatpur,Alluvial,5.8,27,1155
+Chhattisgarh,Mohla-Manpur-Ambagarh Chowki,Sandy Loam,7.4,27,877
+Chhattisgarh,Sarangarh-Bilaigarh,Sandy Loam,6.1,23,1585
+Chhattisgarh,Shakti,Laterite,6.7,37,1173
+Himachal Pradesh,Bilaspur,Sandy Loam,5.5,0,1722
+Himachal Pradesh,Chamba,Laterite,6.7,3,1154
+Himachal Pradesh,Hamirpur,Black,5.1,2,1181
+Himachal Pradesh,Kangra,Sandy Loam,6.4,0,1704
+Himachal Pradesh,Kinnaur,Alluvial,7.4,18,2497
+Himachal Pradesh,Kullu,Black,7.1,28,1245
+Himachal Pradesh,Lahaul and Spiti,Laterite,6.5,10,1229
+Himachal Pradesh,Mandi,Black,6.9,17,2006
+Himachal Pradesh,Shimla,Alluvial,5.9,26,2110
+Himachal Pradesh,Sirmaur,Alluvial,5.8,26,1523
+Himachal Pradesh,Solan,Alluvial,7.3,22,2369
+Himachal Pradesh,Una,Laterite,5.5,9,2460
+Gujarat,Ahmedabad,Sandy Loam,6.6,18,1442
+Gujarat,Amreli,Laterite,6.7,19,765
+Gujarat,Anand,Alluvial,8.1,45,550
+Gujarat,Aravalli,Sandy Loam,8.2,16,957
+Gujarat,Banaskantha,Alluvial,6.9,17,783
+Gujarat,Bharuch,Laterite,7.3,37,1053
+Gujarat,Bhavnagar,Black,8.4,24,1046
+Gujarat,Botad,Black,6.8,31,1471
+Gujarat,Chhota Udaipur,Alluvial,6.9,20,1058
+Gujarat,Dahod,Black,7.6,39,670
+Gujarat,Dang,Sandy Loam,8,25,833
+Gujarat,Devbhoomi Dwarka,Alluvial,8.3,30,1402
+Gujarat,Gandhinagar,Red,7.5,37,692
+Gujarat,Gir Somnath,Laterite,6.6,21,1429
+Gujarat,Jamnagar,Black,6.6,34,796
+Gujarat,Junagadh,Sandy Loam,7.9,41,1039
+Gujarat,Kheda,Black,7.6,31,1304
+Gujarat,Kutch,Sandy Loam,8.3,32,1054
+Gujarat,Mahisagar,Red,8.2,45,762
+Gujarat,Mehsana,Alluvial,8.1,44,686
+Gujarat,Morbi,Laterite,7.9,20,1451
+Gujarat,Narmada,Black,7.4,25,557
+Gujarat,Navsari,Sandy Loam,7,29,1218
+Gujarat,Panchmahal,Sandy Loam,7.2,30,734
+Gujarat,Patan,Sandy Loam,8.5,36,1133
+Gujarat,Porbandar,Red,7.1,42,900
+Gujarat,Rajkot,Laterite,6.5,16,826
+Gujarat,Sabarkantha,Black,7.1,43,1500
+Gujarat,Surat,Alluvial,6.9,37,1030
+Gujarat,Surendranagar,Alluvial,8.1,29,1430
+Gujarat,Tapi,Black,8,17,1453
+Gujarat,Vadodara,Red,7.3,24,861
+Gujarat,Valsad,Black,8.3,43,1010
+Bihar,Araria,Laterite,7,10,3659
+Bihar,Arwal,Black,7.1,13,2267
+Bihar,Aurangabad,Black,7.5,38,1732
+Bihar,Banka,Sandy Loam,6.5,14,2655
+Bihar,Begusarai,Alluvial,7.8,11,4858
+Bihar,Bhagalpur,Black,7.6,28,1397
+Bihar,Bhojpur,Red,8.5,20,3353
+Bihar,Buxar,Sandy Loam,6.9,32,3486
+Bihar,Darbhanga,Sandy Loam,5.1,20,2008
+Bihar,East Champaran,Sandy Loam,8.4,44,4770
+Bihar,Gaya,Sandy Loam,5.4,6,1633
+Bihar,Gopalganj,Sandy Loam,6.4,27,3274
+Bihar,Jamui,Alluvial,8.4,42,3721
+Bihar,Jehanabad,Laterite,7.1,45,1446
+Bihar,Kaimur,Sandy Loam,5.6,11,4469
+Bihar,Katihar,Sandy Loam,7.9,25,2693
+Bihar,Khagaria,Alluvial,6.6,24,2566
+Bihar,Kishanganj,Black,5.5,15,2766
+Bihar,Lakhisarai,Red,6,11,1954
+Bihar,Madhepura,Sandy Loam,6.7,15,4629
+Bihar,Madhubani,Alluvial,7.4,24,4316
+Bihar,Munger,Alluvial,5.7,40,800
+Bihar,Muzaffarpur,Black,6.2,23,3805
+Bihar,Nalanda,Red,6.4,10,3537
+Bihar,Nawada,Sandy Loam,5.9,33,3374
+Bihar,Patna,Laterite,7.3,28,1076
+Bihar,Purnia,Red,5.1,22,2255
+Bihar,Rohtas,Alluvial,6.1,10,2940
+Bihar,Saharsa,Red,6.9,12,2036
+Bihar,Samastipur,Red,6.2,20,4881
+Bihar,Saran,Laterite,7.5,14,4009
+Bihar,Sheikhpura,Sandy Loam,5.3,20,4519
+Bihar,Sheohar,Black,6.6,7,4818
+Bihar,Sitamarhi,Alluvial,5.8,34,1179
+Bihar,Siwan,Laterite,6.5,29,1375
+Bihar,Supaul,Black,5.9,29,3253
+Bihar,Vaishali,Black,6,27,4252
+Bihar,West Champaran,Black,7.1,13,3618
+Manipur,Bishnupur,Black,7.8,39,2904
+Manipur,Chandel,Laterite,5.7,30,1424
+Manipur,Churachandpur,Red,6.8,17,2824
+Manipur,Imphal East,Alluvial,8.3,44,3388
+Manipur,Imphal West,Alluvial,5.9,5,1084
+Manipur,Jiribam,Red,5.2,10,1185
+Manipur,Kakching,Black,7.5,24,962
+Manipur,Kamjong,Red,7,37,2973
+Manipur,Kangpokpi,Alluvial,7.1,32,914
+Manipur,Noney,Black,6.7,12,3301
+Manipur,Pherzawl,Black,5.9,8,3994
+Manipur,Senapati,Sandy Loam,5.4,23,4647
+Manipur,Tamenglong,Laterite,5.7,44,1789
+Manipur,Tengnoupal,Red,8.5,23,1137
+Manipur,Thoubal,Red,8.5,28,3389
+Manipur,Ukhrul,Alluvial,5.4,31,4895
+Meghalaya,East Garo Hills,Alluvial,5.9,17,934
+Meghalaya,West Garo Hills,Red,7.7,31,1465
+Meghalaya,North Garo Hills,Red,8,40,1117
+Meghalaya,South Garo Hills,Sandy Loam,8.3,28,2898
+Meghalaya,South West Garo Hills,Sandy Loam,5.6,40,4873
+Meghalaya,East Khasi Hills,Sandy Loam,6.7,24,3951
+Meghalaya,West Khasi Hills,Red,5.3,26,2379
+Meghalaya,South West Khasi Hills,Sandy Loam,5.3,14,3749
+Meghalaya,Ri-Bhoi,Red,7.9,33,3097
+Meghalaya,Eastern West Khasi Hills,Laterite,6.6,13,3788
+Meghalaya,West Jaintia Hills,Black,5.9,5,4866
+Meghalaya,East Jaintia Hills,Alluvial,6.1,23,2351
+Mizoram,Aizawl,Laterite,5.8,6,3640
+Mizoram,Champhai,Alluvial,8.2,14,3085
+Mizoram,Hnahthial,Laterite,5.8,17,966
+Mizoram,Khawzawl,Alluvial,5.5,20,3719
+Mizoram,Kolasib,Red,7.2,24,1727
+Mizoram,Lawngtlai,Sandy Loam,7.1,29,3655
+Mizoram,Lunglei,Alluvial,5.3,41,3254
+Mizoram,Mamit,Alluvial,8.2,6,804
+Mizoram,Saiha,Alluvial,7.3,14,2032
+Mizoram,Saitual,Laterite,5,9,1547
+Mizoram,Serchhip,Black,8.5,42,3433
+Tamil Nadu,Ariyalur,Black,6.4,6,1755
+Tamil Nadu,Chengalpattu,Laterite,5.8,44,4474
+Tamil Nadu,Chennai,Red,6.1,10,2640
+Tamil Nadu,Coimbatore,Laterite,6.9,30,3102
+Tamil Nadu,Cuddalore,Alluvial,5.6,9,3246
+Tamil Nadu,Dharmapuri,Sandy Loam,6.9,10,2812
+Tamil Nadu,Dindigul,Sandy Loam,8.2,21,3853
+Tamil Nadu,Erode,Alluvial,6.1,10,4637
+Tamil Nadu,Kallakurichi,Sandy Loam,7,13,1933
+Tamil Nadu,Kancheepuram,Sandy Loam,5,19,3245
+Tamil Nadu,Karur,Alluvial,5.3,39,4632
+Tamil Nadu,Krishnagiri,Alluvial,5.7,28,4949
+Tamil Nadu,Madurai,Black,6.3,43,3918
+Tamil Nadu,Mayiladuthurai,Black,8.4,24,4475
+Tamil Nadu,Nagapattinam,Sandy Loam,7.4,20,4447
+Tamil Nadu,Kanniyakumari,Black,6.4,44,3874
+Tamil Nadu,Namakkal,Sandy Loam,6.8,44,827
+Tamil Nadu,Perambalur,Alluvial,5.3,11,3025
+Tamil Nadu,Pudukkottai,Sandy Loam,5.9,9,2123
+Tamil Nadu,Ramanathapuram,Black,7.5,22,1785
+Tamil Nadu,Ranipet,Black,8.5,22,3649
+Tamil Nadu,Salem,Laterite,5.3,41,2150
+Tamil Nadu,Sivagangai,Sandy Loam,6.8,37,4443
+Tamil Nadu,Tenkasi,Alluvial,6.6,38,2142
+Tamil Nadu,Thanjavur,Black,6.5,16,2082
+Tamil Nadu,Theni,Alluvial,6.7,29,3726
+Tamil Nadu,Thoothukudi,Red,6.1,35,1991
+Tamil Nadu,Tiruchirappalli,Alluvial,7.6,27,1115
+Tamil Nadu,Tirunelveli,Black,7.9,36,2837
+Tamil Nadu,Tirupattur,Laterite,6,30,2444
+Tamil Nadu,Tiruppur,Sandy Loam,7.7,27,842
+Tamil Nadu,Tiruvallur,Alluvial,5.6,13,4685
+Tamil Nadu,Tiruvannamalai,Black,8.4,23,1363
+Tamil Nadu,Tiruvarur,Red,6.5,21,1282
+Tamil Nadu,Vellore,Red,8,36,3999
+Tamil Nadu,Viluppuram,Sandy Loam,5.9,22,3524
+Tamil Nadu,Virudhunagar,Alluvial,8,21,4950
+West Bengal,Alipurduar,Black,6.8,30,1229
+West Bengal,Bankura,Laterite,6.3,34,4809
+West Bengal,Birbhum,Red,5.3,35,1008
+West Bengal,Cooch Behar,Sandy Loam,7.9,16,3668
+West Bengal,Dakshin Dinajpur,Sandy Loam,7.9,10,2303
+West Bengal,Darjeeling,Sandy Loam,6.3,32,2274
+West Bengal,Hooghly,Red,6.8,20,3154
+West Bengal,Howrah,Black,8.2,7,3757
+West Bengal,Jalpaiguri,Alluvial,8.4,10,4125
+West Bengal,Jhargram,Black,6.7,9,3865
+West Bengal,Kalimpong,Sandy Loam,6.5,38,4548
+West Bengal,Kolkata,Black,8.4,6,3598
+West Bengal,Malda,Black,5.3,25,4075
+West Bengal,Murshidabad,Sandy Loam,8.4,11,3840
+West Bengal,Nadia,Alluvial,7.9,36,4836
+West Bengal,North 24 Parganas,Laterite,6,41,2784
+West Bengal,Paschim Bardhaman,Laterite,8.4,43,1849
+West Bengal,Paschim Medinipur,Black,7.7,18,3966
+West Bengal,Purba Bardhaman,Black,6.3,21,2749
+West Bengal,Purba Medinipur,Black,8.2,9,1823
+West Bengal,South 24 Parganas,Black,8.2,9,2400
+West Bengal,Uttar Dinajpur,Laterite,7.9,29,1634
+Uttarakhand,Almora,Red,7.5,6,3714
+Uttarakhand,Bageshwar,Red,7.6,20,4955
+Uttarakhand,Chamoli,Black,6.4,18,810
+Uttarakhand,Champawat,Laterite,7.6,12,2606
+Uttarakhand,Dehradun,Alluvial,5.8,25,1854
+Uttarakhand,Haridwar,Black,5.7,22,3450
+Uttarakhand,Nainital,Sandy Loam,7.9,9,2163
+Uttarakhand,Pauri Garhwal,Red,6.2,38,2224
+Uttarakhand,Pithoragarh,Black,6.1,30,3627
+Uttarakhand,Rudraprayag,Laterite,6.7,22,1250
+Uttarakhand,Tehri Garhwal,Sandy Loam,5.8,22,4897
+Uttarakhand,Udham Singh Nagar,Red,8.2,26,4521
+Uttarakhand,Uttarkashi,Black,7.8,18,1425
+Tripura,Dhalai,Laterite,6.4,37,1441
+Tripura,Gomati,Sandy Loam,6.8,15,2850
+Tripura,Khowai,Sandy Loam,6.2,44,1388
+Tripura,North Tripura,Sandy Loam,6.7,12,1217
+Tripura,Sepahijala,Alluvial,8.2,21,807
+Tripura,South Tripura,Red,5.5,37,4602
+Tripura,Unakoti,Laterite,8.1,10,2215
+Tripura,West Tripura,Sandy Loam,5.3,39,2960
+Sikkim,East Sikkim,Sandy Loam,6.6,15,3364
+Sikkim,North Sikkim,Black,8.5,34,1366
+Sikkim,South Sikkim,Alluvial,6,13,4188
+Sikkim,West Sikkim,Red,7.7,15,891
+Rajasthan,Ajmer,Black,6.8,18,3656
+Rajasthan,Alwar,Alluvial,6.6,29,990
+Rajasthan,Banswara,Laterite,6.9,7,1120
+Rajasthan,Baran,Black,8,10,3240
+Rajasthan,Barmer,Alluvial,7.5,25,3913
+Rajasthan,Bharatpur,Sandy Loam,6.9,33,1479
+Rajasthan,Bhilwara,Red,7.6,38,3880
+Rajasthan,Bikaner,Red,6,40,1507
+Rajasthan,Bundi,Sandy Loam,5.8,26,4948
+Rajasthan,Chittorgarh,Red,6.5,42,3375
+Rajasthan,Churu,Sandy Loam,7.8,25,4891
+Rajasthan,Dausa,Laterite,6.4,25,923
+Rajasthan,Dholpur,Laterite,5.6,26,3979
+Rajasthan,Dungarpur,Laterite,8.1,20,1969
+Rajasthan,Hanumangarh,Black,8.3,13,3338
+Rajasthan,Jaipur,Black,8.1,21,4421
+Rajasthan,Jaisalmer,Laterite,6.6,28,1678
+Rajasthan,Jalore,Alluvial,5.2,26,1032
+Rajasthan,Jhalawar,Black,8,41,2715
+Rajasthan,Jhunjhunu,Red,8,44,1804
+Rajasthan,Jodhpur,Red,7.7,22,1838
+Rajasthan,Karauli,Sandy Loam,6.8,5,4187
+Rajasthan,Kota,Laterite,7.7,21,929
+Rajasthan,Nagaur,Laterite,6.4,24,1786
+Rajasthan,Pali,Laterite,5.3,5,1287
+Rajasthan,Pratapgarh,Red,5.5,38,3944
+Rajasthan,Rajsamand,Laterite,5.6,20,3298
+Rajasthan,Sawai Madhopur,Red,6.2,12,4872
+Rajasthan,Sikar,Black,5.5,9,3752
+Rajasthan,Sirohi,Alluvial,8.3,30,3904
+Rajasthan,Sri Ganganagar,Black,8.1,22,4886
+Rajasthan,Tonk,Alluvial,8.5,31,3137
+Rajasthan,Udaipur,Laterite,6.5,7,4246
+Punjab,Amritsar,Red,6.6,37,4294
+Punjab,Barnala,Alluvial,6,45,3316
+Punjab,Bathinda,Red,5.9,22,4513
+Punjab,Faridkot,Sandy Loam,5.7,21,4949
+Punjab,Fatehgarh Sahib,Sandy Loam,8,5,3044
+Punjab,Fazilka,Laterite,7.4,14,4139
+Punjab,Ferozepur,Sandy Loam,6.3,14,2630
+Punjab,Gurdaspur,Black,6.9,13,4232
+Punjab,Hoshiarpur,Alluvial,7,8,2346
+Punjab,Jalandhar,Black,6.3,29,4771
+Punjab,Kapurthala,Black,8.5,18,3506
+Punjab,Ludhiana,Sandy Loam,6.7,5,4403
+Punjab,Mansa,Laterite,7.2,38,1574
+Punjab,Moga,Sandy Loam,8.2,9,4499
+Punjab,Muktsar,Sandy Loam,8.3,17,2831
+Punjab,Nawanshahr,Laterite,5.6,22,2022
+Punjab,Pathankot,Black,7.5,41,1188
+Punjab,Patiala,Alluvial,8.1,7,2838
+Punjab,Rupnagar,Alluvial,5.4,19,4485
+Punjab,Sangrur,Red,6.9,28,1998
+Punjab,Tarn Taran,Sandy Loam,6.4,22,4792
+Nagaland,Chümoukedima,Sandy Loam,8.4,42,2674
+Nagaland,Dimapur,Laterite,6.2,24,4038
+Nagaland,Kiphire,Red,7.5,34,4827
+Nagaland,Kohima,Sandy Loam,6,7,1169
+Nagaland,Longleng,Sandy Loam,5.3,38,4715
+Nagaland,Mokokchung,Laterite,5.5,31,1973
+Nagaland,Mon,Alluvial,6.7,22,3621
+Nagaland,Niuland,Red,6.7,8,2289
+Nagaland,Noklak,Red,5.5,26,1408
+Nagaland,Peren,Red,8,12,4651
+Nagaland,Phek,Alluvial,6.9,18,1776
+Nagaland,Shamator,Sandy Loam,6.9,28,1822
+Nagaland,Tseminyu,Sandy Loam,7.2,27,4910
+Nagaland,Tuensang,Alluvial,7.4,27,1729
+Nagaland,Wokha,Black,7,37,4964
+Nagaland,Zünheboto,Black,6,12,1132
+Kerala,Alappuzha,Alluvial,5.2,45,3730
+Kerala,Ernakulam,Sandy Loam,6.3,34,3125
+Kerala,Idukki,Alluvial,5.6,17,3653
+Kerala,Kannur,Laterite,8.2,31,4716
+Kerala,Kasaragod,Alluvial,7.5,21,4827
+Kerala,Kollam,Red,5.5,8,4259
+Kerala,Kottayam,Black,8.1,42,1538
+Kerala,Kozhikode,Red,5.7,33,1229
+Kerala,Malappuram,Alluvial,6.9,25,4157
+Kerala,Palakkad,Sandy Loam,8.3,42,3588
+Kerala,Pathanamthitta,Sandy Loam,6.2,36,3422
+Kerala,Thiruvananthapuram,Alluvial,7.1,7,4826
+Kerala,Thrissur,Alluvial,5.6,9,3367
+Kerala,Wayanad,Sandy Loam,7.6,23,2734
+Jharkhand,Bokaro,Alluvial,6.1,37,4137
+Jharkhand,Chatra,Black,8,24,1358
+Jharkhand,Deoghar,Black,5.4,35,4250
+Jharkhand,Dhanbad,Red,5.1,36,3053
+Jharkhand,Dumka,Sandy Loam,8,27,4330
+Jharkhand,East Singhbhum,Alluvial,8,7,2242
+Jharkhand,Garhwa,Red,6.1,21,1381
+Jharkhand,Giridih,Black,6.2,7,1696
+Jharkhand,Godda,Laterite,7,29,4980
+Jharkhand,Gumla,Black,7.1,13,2980
+Jharkhand,Hazaribagh,Red,6.1,15,3414
+Jharkhand,Jamtara,Alluvial,5,14,2866
+Jharkhand,Khunti,Sandy Loam,8.5,15,3974
+Jharkhand,Koderma,Sandy Loam,6.1,10,4276
+Jharkhand,Latehar,Red,6.6,14,2521
+Jharkhand,Lohardaga,Black,6.8,44,2226
+Jharkhand,Pakur,Laterite,7.2,45,4904
+Jharkhand,Palamu,Alluvial,7.6,6,4727
+Jharkhand,Ramgarh,Laterite,6.2,28,3551
+Jharkhand,Ranchi,Red,7.5,31,4620
+Jharkhand,Sahebganj,Sandy Loam,7.7,31,4213
+Jharkhand,Seraikela-Kharsawan,Red,8.1,21,4203
+Jharkhand,Simdega,Black,8.3,20,4086
+Jharkhand,West Singhbhum,Alluvial,7.4,7,4646
+Assam,Baksa,Sandy Loam,6.5,35,4359
+Assam,Barpeta,Black,5.6,17,2724
+Assam,Biswanath,Sandy Loam,7.4,22,4103
+Assam,Bongaigaon,Black,6,15,3628
+Assam,Cachar,Black,8.1,8,4596
+Assam,Charaideo,Black,7.2,8,4862
+Assam,Chirang,Laterite,5.8,13,2648
+Assam,Darrang,Red,5.1,33,4558
+Assam,Dhemaji,Sandy Loam,5.9,29,4031
+Assam,Dhubri,Alluvial,7.2,10,3075
+Assam,Dibrugarh,Red,5.9,17,2378
+Assam,Goalpara,Sandy Loam,7.1,28,2188
+Assam,Golaghat,Sandy Loam,8.4,12,4740
+Assam,Hailakandi,Red,6.4,44,2123
+Assam,Hojai,Red,5.6,23,1645
+Assam,Jorhat,Laterite,7.9,30,4179
+Assam,Kamrup,Laterite,8.5,15,2010
+Assam,Kamrup Metropolitan,Red,5.2,32,4647
+Assam,Karbi Anglong,Laterite,7.1,21,4187
+Assam,Karimganj,Laterite,6.8,28,3193
+Assam,Kokrajhar,Red,8.1,10,4879
+Assam,Lakhimpur,Black,6.6,10,2639
+Assam,Majuli,Sandy Loam,6.5,15,4904
+Assam,Morigaon,Red,5.3,15,3189
+Assam,Nagaon,Sandy Loam,7,41,3437
+Assam,Nalbari,Sandy Loam,8.1,14,4220
+Assam,Sivasagar,Black,8.2,5,3003
+Assam,Sonitpur,Laterite,6.4,39,2373
+Assam,South Salmara-Mankachar,Laterite,8.2,33,913
+Assam,Tinsukia,Black,7.5,26,2925
+Assam,Udalguri,Sandy Loam,7.5,17,3345
+Assam,West Karbi Anglong,Black,7.2,28,3889
+Karnataka,Bagalkot,Sandy Loam,5.3,36,4134
+Karnataka,Ballari,Sandy Loam,6.9,19,4565
+Karnataka,Belagavi,Sandy Loam,6.1,12,1303
+Karnataka,Bengaluru Rural,Sandy Loam,8.1,5,2007
+Karnataka,Bengaluru Urban,Red,6.9,5,4523
+Karnataka,Bidar,Alluvial,7.7,21,4155
+Karnataka,Chamarajanagar,Sandy Loam,5.1,44,2069
+Karnataka,Chikballapur,Laterite,5.2,44,2436
+Karnataka,Chikkamagaluru,Alluvial,7.5,5,2394
+Karnataka,Chitradurga,Laterite,7.5,20,4550
+Karnataka,Dakshina Kannada,Alluvial,5,31,4931
+Karnataka,Davanagere,Alluvial,5.8,28,2532
+Karnataka,Dharwad,Sandy Loam,6.3,18,3067
+Karnataka,Gadag,Red,6.4,35,2578
+Karnataka,Hassan,Black,7.2,29,3543
+Karnataka,Haveri,Sandy Loam,5.3,10,1496
+Karnataka,Kalaburagi,Sandy Loam,7.7,39,1805
+Karnataka,Kodagu,Black,8.1,16,3515
+Karnataka,Kolar,Black,6.7,9,4773
+Karnataka,Koppal,Black,5.5,8,4109
+Karnataka,Mandya,Alluvial,5.8,31,3160
+Karnataka,Mysuru,Alluvial,8.2,17,4969
+Karnataka,Raichur,Red,6.7,16,1745
+Karnataka,Ramanagara,Red,8.1,25,3984
+Karnataka,Shivamogga,Black,6.7,43,1717
+Karnataka,Tumakuru,Sandy Loam,5.7,44,2094
+Karnataka,Udupi,Sandy Loam,7.2,12,2586
+Karnataka,Uttara Kannada,Sandy Loam,7.9,33,1402
+Karnataka,Vijayanagara,Alluvial,6.6,16,3447
+Karnataka,Vijayapura,Red,7.6,26,2397
+Karnataka,Yadgir,Red,7.5,30,3057
+Jammu & Kashmir,Anantnag,Mountain Soil,5.7,-3,1338
+Jammu & Kashmir,Bandipora,Alluvial Soil,6.4,1,1189
+Jammu & Kashmir,Baramulla,Laterite Soil,6.4,31,946
+Jammu & Kashmir,Budgam,Black Soil,6.2,9,1394
+Jammu & Kashmir,Doda,Laterite Soil,8.4,22,1028
+Jammu & Kashmir,Ganderbal,Red Soil,5.8,7,856
+Jammu & Kashmir,Jammu,Red Soil,8.4,0,1311
+Jammu & Kashmir,Kathua,Alluvial Soil,6.4,18,868
+Jammu & Kashmir,Kishtwar,Laterite Soil,7.3,-2,548
+Jammu & Kashmir,Kulgam,Red Soil,5.6,7,1372
+Jammu & Kashmir,Kupwara,Desert Soil,8.3,27,1280
+Jammu & Kashmir,Poonch,Red Soil,5.6,0,1182
+Jammu & Kashmir,Pulwama,Desert Soil,7.3,14,1396
+Jammu & Kashmir,Rajouri,Black Soil,8.5,7,1362
+Jammu & Kashmir,Ramban,Black Soil,6.2,33,957
+Jammu & Kashmir,Reasi,Alluvial Soil,5.6,6,782
+Jammu & Kashmir,Samba,Desert Soil,5.9,33,1127
+Jammu & Kashmir,Shopian,Mountain Soil,5.3,2,1120
+Jammu & Kashmir,Srinagar,Desert Soil,8.3,-3,1479
+Jammu & Kashmir,Udhampur,Laterite Soil,5.3,25,915
+Ladakh,Kargil,Red Soil,8.4,19,1385
+Ladakh,Leh,Alluvial Soil,8.1,19,456

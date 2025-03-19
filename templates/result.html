@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plant Recommendations</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background"></div>
+    <div class="wrapper">
+        <div class="result-container">
+            <h1>🌾 Recommended Plants for {{ state }}, {{ district }} 🌱</h1>
+            <div class="climate-info">
+                <p><strong>Soil Type:</strong> {{ soil_type }}</p>
+                <p><strong>Temperature:</strong> {{ temperature }}°C</p>
+                <p><strong>Rainfall:</strong> {{ rainfall }} mm</p>
+                <p><strong>Soil pH:</strong> {{ ph }}</p>
+            </div>
+            <h2>🌱 Recommended Plants:</h2>
+            <ul>
+                {% for plant in plants %}
+                <li>
+                    <h3>🌿 {{ plant["plant name"] }}</h3>
+                    <p><strong>Fertilizer:</strong> {{ plant["Required Fertilizer"] }}</p>
+                    <p><strong>Pests & Pesticides:</strong> {{ plant["Common Pests & Recommended Pesticides"] }}</p>
+                </li>
+                {% endfor %}
+            </ul>
+            <a href="/" class="back-btn">🔙 Back</a>
+        </div>
+    </div>
+</body>
+</html>

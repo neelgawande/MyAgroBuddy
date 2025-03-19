@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plant Recommendation System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background"></div>
+    <div class="wrapper">
+
+        <nav class="navbar">
+            <h1><b>FloraSync</b></h1>
+        </nav>
+
+        <div class="form-container">
+            
+            <h2>🌿 Find the Best Plants for Your Region 🌱</h2>
+            <p>Enter your location to get personalized plant recommendations based on soil and climate conditions.</p>
+            <form action="/predict" method="post">
+                <input type="text" name="state" placeholder="Enter State" required>
+                <input type="text" name="district" placeholder="Enter District" required>
+                <button type="submit">Get Recommendations</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plant Recommendation System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">🌱 Plant Recommender</div>
+        <ul class="nav-links">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <div class="background"></div>
+    <div class="wrapper">
+        <div class="form-container">
+            <h1>🌿 Find the Best Plants for Your Region 🌱</h1>
+            <p>Enter your location to get personalized plant recommendations based on soil and climate conditions.</p>
+            <form action="/predict" method="post">
+                <input type="text" name="state" placeholder="Enter State" required>
+                <input type="text" name="district" placeholder="Enter District" required>
+                <button type="submit">Get Recommendations</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html> -->
