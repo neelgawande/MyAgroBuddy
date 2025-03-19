@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<<<<<<< HEAD
     <title>Plant Recommendation System</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
@@ -64,3 +65,27 @@
     </div>
 </body>
 </html> -->
+=======
+    <title>Gardening Companion</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Gardening Companion</h1>
+        <form method="POST">
+            <label for="location">Enter Your Location:</label>
+            <input type="text" id="location" name="location" required>
+
+            <label for="soil">Select Soil Type:</label>
+            <select id="soil" name="soil">
+                <option value="loamy">Loamy</option>
+                <option value="sandy">Sandy</option>
+                <option value="clay">Clay</option>
+            </select>
+
+            <button type="submit">Get Recommendations</button>
+        </form>
+    </div>
+</body>
+</html>
+>>>>>>> 004ed6f8328a5d4901c04b6b57b86760c115cfb0

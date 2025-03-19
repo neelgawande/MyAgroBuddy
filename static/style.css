@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* General Page Styles */
 body {
     margin: 0;
@@ -123,5 +124,123 @@ ul li {
     .form-container, .result-container {
         width: 90%;
         padding: 20px;
+=======
+/* Global Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    /* background: linear-gradient(to right, #4CAF50, #2E8B57); */
+    background-image: url('./images/gardening.jpg');
+    background-size: cover;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Centered Container */
+.container {
+    width: 90%;
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    animation: fadeIn 1s ease-in-out;
+}
+
+/* Heading Styles */
+h1 {
+    color: #2E8B57;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+/* Form Styling */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* Input Fields */
+input, select {
+    padding: 12px;
+    border: 2px solid #2E8B57;
+    border-radius: 8px;
+    font-size: 16px;
+    outline: none;
+    transition: 0.3s;
+}
+
+input:focus, select:focus {
+    border-color: #4CAF50;
+    box-shadow: 0px 0px 8px rgba(76, 175, 80, 0.5);
+}
+
+/* Button */
+button {
+    background: #4CAF50;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #45a049;
+    transform: scale(1.05);
+}
+
+/* List Styling */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background: #f2f2f2;
+    margin: 8px 0;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+/* Back Link */
+a {
+    display: inline-block;
+    margin-top: 15px;
+    color: #4CAF50;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #2E8B57;
+    text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .container {
+        width: 95%;
+    }
+}
+
+/* Fade-in Animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+>>>>>>> 004ed6f8328a5d4901c04b6b57b86760c115cfb0
     }
 }

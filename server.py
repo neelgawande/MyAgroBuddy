@@ -1,9 +1,15 @@
+<<<<<<< HEAD
 from flask import Flask, render_template, request, jsonify
 import joblib  # Use joblib instead of pickle
+=======
+from flask import Flask, render_template, request
+import joblib
+>>>>>>> 004ed6f8328a5d4901c04b6b57b86760c115cfb0
 import pandas as pd
 
 app = Flask(__name__)
 
+<<<<<<< HEAD
 # Load the trained model and encoders
 try:
     model = joblib.load("./model/plant_recommendation_model.pkl")
@@ -84,3 +90,30 @@ def predict():
 if __name__ == "__main__":
     app.run(debug=True)
 
+=======
+# Load trained model
+# model = joblib.load("model/plant_recommendation.pkl")
+
+# Sample plant data
+plant_data = {
+    "loamy": ["Tomato", "Carrot", "Rose"],
+    "sandy": ["Cactus", "Lavender", "Aloe Vera"],
+    "clay": ["Willow Tree", "Sunflower", "Peony"]
+}
+
+@app.route("/", methods=["GET", "POST"])
+def home():
+    if request.method == "POST":
+        location = request.form["location"]
+        soil = request.form["soil"].lower()
+
+        # Get plant recommendations
+        recommended_plants = plant_data.get(soil, ["No recommendations found"])
+
+        return render_template("result.html", location=location, soil=soil, plants=recommended_plants)
+    
+    return render_template("index.html")
+
+if __name__ == "__main__":
+    app.run(debug=True)
+>>>>>>> 004ed6f8328a5d4901c04b6b57b86760c115cfb0
